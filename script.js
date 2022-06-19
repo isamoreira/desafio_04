@@ -17,3 +17,8 @@ function musicaefilme (filme, musica){
     console.log(`Meu filme favorito é ${filme} e agora estou ouvindo ${musica}`)
 }
 musicaefilme("Pulp Fiction", "Fica até umas hora - Black Alien")
+
+function triplo (a){
+    console.log(3*a)
+}
+triplo(3)
